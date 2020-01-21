@@ -1,7 +1,7 @@
 # SaveInstanceInBundle
 Save and load fields to/from a [Bundle]
 
-#Usage
+# Usage
 
    class AppActivity : AppCompatActivity() {
   
@@ -22,4 +22,4 @@ Save and load fields to/from a [Bundle]
 
   }
   
-  ** Feel free to use
+  **Feel free to use
