@@ -23,3 +23,5 @@ Save and load fields to/from a [Bundle]
   }
   
   **Feel free to use
+
+Note: This code was adapted from a library project named ![AndroidAutowire](https://github.com/CardinalNow/AndroidAutowire) which is licensed under the ![MIT license](https://raw.githubusercontent.com/CardinalNow/AndroidAutowire/master/LICENSE).
